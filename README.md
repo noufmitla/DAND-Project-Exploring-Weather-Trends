@@ -1,2 +1,2 @@
 # DAND-Project-Exploring-Weather-Trends
-This Project is connected with the Data Analyst Nanodegree from Udacity.
+In this project, we will focus on analyzing local and global temperature data and compares the local temperature trends to overall global temperature trends.
